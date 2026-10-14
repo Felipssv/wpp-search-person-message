@@ -1,4 +1,4 @@
-# WhatsApp Person Message Filter 🔍💬
+# WhatsApp Search Person Message 🔍💬
 
 Script em Python com **Playwright** que acessa o WhatsApp Web, navega até um **grupo específico** e filtra todas as mensagens enviadas por uma **pessoa específica** (buscando tanto pelo **nome** quanto pelo **número de telefone**).
 
